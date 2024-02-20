@@ -16,3 +16,6 @@
 ## Enhancements
 1. Memory caching has been implemented to minimize the API call to the News Hacker API, thus minimizing the unwanted overloading of the API. Also helps in the efficient handling of a large number of requests.
 2. Auto Mapper is used to map the API response from the New Hacker API, to the result format.
+
+## How to Run the application
+1. Open the code in Visual Studio 2022 and run it in Swagger.
